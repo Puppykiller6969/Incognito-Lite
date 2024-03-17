@@ -1,7 +1,7 @@
 {
-  "name": "incognito-lite",
+  "name": "school",
   "version": "1.0.0",
-  "description": "Unofficial Incognito easy deployment version with TompHTTP bare server included using BUFFY.",
+  "description": " usa",
   "type": "module",
   "scripts": {
     "start": "node index.js"
@@ -14,15 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amethystnetwork-dev/Incognito-Lite"
+    "url": "git+https://github.com/Puppykiller6969/Incognito-Lite/"
   },
   "keywords": [
     "unoffical",
-    "ultraviolet",
-    "unblock",
-    "titaniumnetwork",
-    "bypass-filter",
-    "amethystnetwork-dev"
+    "by",
+    "spec"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",
